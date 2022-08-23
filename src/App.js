@@ -1,3 +1,5 @@
+// Main React app where we're going to put all our code into
+
 import logo from './logo.svg';
 import './App.css';
 
